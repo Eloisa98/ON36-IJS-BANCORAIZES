@@ -1,6 +1,6 @@
 # Banco Raízes
 
-Banco Raízes é um projeto comunitário desenvolvido como parte de um trabalho acadêmico, com o objetivo de promover a criação de projetos voltados para a comunidade. Este projeto visa oferecer suporte financeiro e educacional para jovens, incentivando o desenvolvimento econômico e social de comunidades locais.
+Banco Raízes é um projeto comunitário desenvolvido como parte de um trabalho do programa {reprograma}, com o objetivo de promover a criação de projetos voltados para a comunidade. Este projeto visa oferecer suporte financeiro e educacional para jovens, incentivando o desenvolvimento econômico e social de comunidades locais.
 
 ## Visão Geral
 
