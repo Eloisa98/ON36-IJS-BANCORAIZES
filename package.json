@@ -1,0 +1,24 @@
+{
+  "name": "on36-ijs-bancoraizes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eloisa98/ON36-IJS-BANCORAIZES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eloisa98/ON36-IJS-BANCORAIZES/issues"
+  },
+  "homepage": "https://github.com/Eloisa98/ON36-IJS-BANCORAIZES#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^3.9.10"
+  }
+}
